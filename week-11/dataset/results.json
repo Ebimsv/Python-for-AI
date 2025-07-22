@@ -1,0 +1,6 @@
+{
+    "model": "bert-base-uncased",
+    "task": "sentiment-analysis",
+    "accuracy": 0.9231,
+    "timestamp": "2025-07-22T10:12:00"
+}
